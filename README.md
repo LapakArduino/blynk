@@ -1,6 +1,7 @@
 # blynk
-### server ```json 
-blynk blynk.cloud```
+### server 
+``` 
+ blynk.cloud```
 materi dasar blynk
 ```
 get value from pin 
