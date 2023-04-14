@@ -1,8 +1,10 @@
 # blynk
 ### server 
-``` 
- blynk.cloud```
+```  blynk.cloud```
+
+
 materi dasar blynk
+
 ```
 get value from pin 
 https://blynk.cloud/external/api/get?token={tokenya}&{pin}
